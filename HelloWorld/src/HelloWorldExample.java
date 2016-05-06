@@ -8,7 +8,6 @@ public class HelloWorldExample {
 		
 		System.out.println("hello World!");
 		System.out.println("Hello Github!");
-		// TODO Auto-generated method stub
 
 	}
 
