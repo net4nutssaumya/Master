@@ -6,6 +6,7 @@ public class HelloWorldExample {
 		
 		System.out.println("hello World!");
 		System.out.println("Testing Commencing");
+		System.out.println("Testing connection 2");
 
 	}
 
