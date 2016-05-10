@@ -3,5 +3,53 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="lib" path="C:/JUnit folder/junit-4.10.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AbstractClass"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AnonymousClasses"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ArrayList"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CastingNumericalValue"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Classes"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Constructors"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CountDownLatch"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dowhile loop"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Enum"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EqualsMethod"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ExceptionExample"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FileReader"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FileReadingUsingFileReader"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FileWriting"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Forloops"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Generics"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HashMap"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Inheritance"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/InnerClasses"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/InterfaceExamples"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/IteratorExample"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LinkedList"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MethodParameters"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/multidimensionarray"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Multithreading"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/NameDialog"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/NaturalOrderCollections"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PackageExample"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Polymorphism"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PrimeNumberChecker"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ProducerConsumer"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Recursion"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ReturnValues"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Serialization"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SerialozationArray"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Sets"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Setters"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SortedMaps"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Sorting"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Static"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/String"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/StringFormatting"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TestJunit"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ThreadGroup"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ThreadLock"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ThreadPool"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ThreadSyncBasic"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/WaitAndNotify"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
